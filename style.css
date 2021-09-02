@@ -1,0 +1,19 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e6e6;
+}
+
+#snake{
+    border: 1px solid black;
+}
+
+.snake-title{
+    border: 1px solid black;
+    font-family: Tahoma;
+    padding: 10px;
+}
